@@ -1,2 +1,2 @@
 # html-portfolio
-My first HTML project
+HTML only project
